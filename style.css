@@ -1,0 +1,36 @@
+.redden{
+    color: red;
+}
+.olfont{
+    font-size: 24px;
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    font-style: italic;
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    font-style: normal;
+    color: white;
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.button{
+border-radius: 2px;
+}
+button:hover{
+    background-color: blue;
+
+}
+button:active{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+}
